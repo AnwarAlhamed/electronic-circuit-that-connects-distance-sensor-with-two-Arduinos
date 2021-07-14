@@ -1,1 +1,2 @@
 # electronic-circuit-that-connects-distance-sensor-with-two-Arduinos
+In this task, I designed and programmed an electronic circuit that connects the distance sensor with the first Arduino (controller) and with the second Arduino instead of the Bluetooth model, because there is no Bluetooth model in Tinkercad, where when a person is in front of the sensor for three seconds, the LED light will turn on instead of the screen.
