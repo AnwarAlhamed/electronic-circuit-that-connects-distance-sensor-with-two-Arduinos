@@ -4,10 +4,8 @@ In this task, I designed and programmed an electronic circuit that connects the 
 ### The circuit design 
 The circuit contains:
 
-- Arduino UNO.
+- 2 Arduino UNO.
 - Ultrasonic Distance Sensor HC-SR04
-- 6 servo motors.
-- 4.5V Battery.
 - Wires ( red= power , black= ground , yellow =trig , green = echo , blue and gray = conect Ard1 to Ard2).
  
 and the circuit was designed using tinkercad website as below:
@@ -18,3 +16,7 @@ and the circuit was designed using tinkercad website as below:
 
  ### For simulation:
  - [Press here ](https://www.tinkercad.com/things/ab0yC7aOfAE-ultraaaaaa)
+ 
+ The circuit was programmed using the C++ language via the Tinkercad website as shown in ino files in this repository.
+ 
+ 
